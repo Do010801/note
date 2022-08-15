@@ -89,6 +89,7 @@ export class AppComponent {
 
   login() {
     this.store.dispatch(AuthActions.login());
+    console.log(this.idToken$)
   }
 
   logOut() {

@@ -32,7 +32,7 @@ header {
     border-radius: 5px;
     padding: 20px;
     margin: 1rem;
-    background-color: aquamarine;
+    background-color:rgb(111, 221, 243);
     width: 250px;
     box-shadow: 0px 0px 10px rgba(200, 200, 200, 0.3);
 }
@@ -50,7 +50,7 @@ header {
     font-weight: bold;
     border-radius: 8px;
     background: rgb(49, 12, 80);
-    color: rgb(189, 80, 80);
+    color: rgb(239, 27, 27);
     width: 100px;
     height: 50px;
     border: 0px;
@@ -112,7 +112,6 @@ body {
     margin: 0;
     padding: 0;
     font-family: 'Raleway', sans-serif;
-    background-color: #000;
 }
 
 .text-container {
@@ -129,7 +128,6 @@ body {
     color: rgba(225, 225, 225, .01);
     background-image: url("https://images.unsplash.com/photo-1499195333224-3ce974eecb47?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=2cf549433129d4227d1879347b9e78ce&auto=format&fit=crop&w=1248&q=80");
     background-repeat: repeat;
-    -webkit-background-clip: text;
     animation: animate 15s ease-in-out infinite;
     text-align: center;
     text-transform: uppercase;
