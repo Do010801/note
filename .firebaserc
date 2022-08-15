@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "todoclits": {
+      "hosting": {
+        "jwt": [
+          "todoclits"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "todoclits"
+  }
+}
